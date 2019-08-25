@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="Bienvenido">Bienvenido!</string>
+    <string name="EncuentraElNumero">Encuentra el numero correcto, recueda!, este se ecuentra entre 1 y 1000</string>
+    <string name="DigiteCantidadIntentos">A continuacion, digita la cantida de intentos que deseas realizar.</string>
+    <string name="NumberImput">Number</string>
+    <string name="PLAYAGAIN">PLAY AGAIN</string>
+    <string name="ProgressBar">Intentos Realizados</string>
+    <string name="imagetext">Image</string>
+    <string name="test">TEST</string>
+    <string name="reset">RESET</string>
+    <string name="aumenta_el_valor">Aumenta el valor</string>
+    <string name="un_poco_menos">Un poco menos</string>
+    <string name="eso_es">Eso Es!</string>
+
+</resources>
